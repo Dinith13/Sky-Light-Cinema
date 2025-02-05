@@ -88,7 +88,7 @@ function App() {
           <Route path="/" element={<Home />} />
 
           {/* Login Page */}
-          <Route path="/logins" element={<Login />} />
+          <Route path="/login" element={<Login />} />
           <Route path='/Movie' element={<Movie />} />
           <Route path='/buy' element={<Buy />} />
           <Route path='/about' element={<AboutUs />} />
