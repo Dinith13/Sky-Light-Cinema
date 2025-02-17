@@ -32,6 +32,14 @@ In short, Skylight Cinema's management system is an all-in-one solution for cine
  ## Team ✨
 
  
+<table>
+  <tr>
+    <th><a href="https://github.com/rajaprerak" target="_blank">TCN Bandara</a></th>
+    <th><a href="https://github.com/example1" target="_blank">WAR Miuranga</a></th>
+    <th><a href="https://github.com/example2" target="_blank">MADVG Manathunga</a></th>
+    <th><a href="https://github.com/example3" target="_blank">KLTD Walalawita</a></th>
+  </tr>
+  
 
 
 
