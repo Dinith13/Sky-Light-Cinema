@@ -39,6 +39,12 @@ In short, Skylight Cinema's management system is an all-in-one solution for cine
     <th><a href="https://github.com/example2" target="_blank">MADVG Manathunga</a></th>
     <th><a href="https://github.com/example3" target="_blank">KLTD Walalawita</a></th>
   </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8742613d-8283-4770-9211-c756e81c89c1" width="200" height="150" alt="TCN Bandara"></td>
+    <td><img src="https://github.com/user-attachments/assets/164af07d-75c7-4f0e-bf3d-952975fde6c7" width="200" height="150" alt="WAR Miuranga"></td>
+    <td><img src="https://github.com/user-attachments/assets/f84b47cf-6a98-486b-89f9-a668a0cb6fe3" width="200" height="150" alt="MADVG Manathunga"></td>
+    <td><img src="https://github.com/example3.png?size=200" width="200" height="150" alt="KLTD Walalawita"></td>
+  </tr>
   
 
 
