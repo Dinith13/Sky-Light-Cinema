@@ -20,6 +20,15 @@ In short, Skylight Cinema's management system is an all-in-one solution for cine
 
 ## Screenshots
 
+![App Screenshot](https://github.com/user-attachments/assets/e96183a5-d8c8-4df3-bc0d-953a5d3b1934)
+![App Screenshot](https://github.com/user-attachments/assets/43488f88-bac0-46aa-825a-d9381cb1b644)
+![App Screenshot](https://github.com/user-attachments/assets/b4722fc8-f0b6-4b04-8a88-b590279720f9)
+![App Screenshot](https://github.com/user-attachments/assets/34e63e1b-c0cd-49e2-ae7e-5a390578b6f6)
+![App Screenshot](https://github.com/user-attachments/assets/0e6d85a6-5d2a-4981-86ff-f3ed68adae79)
+![App Screenshot](https://github.com/user-attachments/assets/46dcad0e-daa0-4ddf-85aa-78e9593886cf)
+![App Screenshot](https://github.com/user-attachments/assets/2c96b330-0be9-4913-a9c6-ec2c5d87f2f9)
+
+
 
 
 
