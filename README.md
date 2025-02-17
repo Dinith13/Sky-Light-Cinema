@@ -51,7 +51,13 @@ In short, Skylight Cinema's management system is an all-in-one solution for cine
     <th><a href="https://github.com/example6" target="_blank">LMNP Gunasekara</a></th>
     <th><a href="https://github.com/example7" target="_blank">IM Pathirana</a></th>
   </tr>
-  
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/44b5689d-99eb-4b24-8755-b7a25e2f261b" width="200" height="150" alt="NTBP Dias"></td>
+    <td><img src="https://github.com/user-attachments/assets/c21fd3c4-1216-433e-8498-3977ecd8b199" width="200" height="150" alt="AADDN Vidushan"></td>
+    <td><img src="https://github.com/user-attachments/assets/e007f11f-3ed5-490f-9f92-ef76f6e2ce62" width="200" height="150" alt="LMNP Gunasekara"></td>
+    <td><img src="https://github.com/user-attachments/assets/c9b8c115-0a22-48cd-bd8b-f68f13d0a5df" width="200" height="150" alt="IM Pathirana"></td>
+  </tr>
+</table>
 
 
 
