@@ -1,5 +1,5 @@
-#ITP Group Project
-#2 Year 2 Sem
+# ITP Group Project
+# 2 Year 2 Sem
 
 # Skylight Cinema's Management System
 
