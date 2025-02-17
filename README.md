@@ -18,6 +18,10 @@ Our team chose the MERN stack for its flexibility and scalability, and we use Gi
 
 In short, Skylight Cinema's management system is an all-in-one solution for cinema owners, offering automation, improved efficiency, and a modern approach to managing daily operations.
 
+## Screenshots
+
+
+
 
 
 
