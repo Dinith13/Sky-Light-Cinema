@@ -1,5 +1,8 @@
-#ITP project
+#ITP Group Project
+#2 Year 2 Sem
+
 # Skylight Cinema's Management System
+
 
 Skylight Cinema's management system is a web-based platform designed to simplify film screening and ticketing operations for cinema operators and distributors. It includes eight key features:
 
@@ -17,6 +20,7 @@ Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), the system 
 Our team chose the MERN stack for its flexibility and scalability, and we use GitHub for version control to ensure smooth collaboration and code management.
 
 In short, Skylight Cinema's management system is an all-in-one solution for cinema owners, offering automation, improved efficiency, and a modern approach to managing daily operations.
+
 
 ## Screenshots
 
@@ -58,7 +62,3 @@ In short, Skylight Cinema's management system is an all-in-one solution for cine
     <td><img src="https://github.com/user-attachments/assets/c9b8c115-0a22-48cd-bd8b-f68f13d0a5df" width="200" height="150" alt="IM Pathirana"></td>
   </tr>
 </table>
-
-
-
-
