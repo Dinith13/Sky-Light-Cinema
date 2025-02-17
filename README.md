@@ -29,7 +29,9 @@ In short, Skylight Cinema's management system is an all-in-one solution for cine
 ![App Screenshot](https://github.com/user-attachments/assets/2c96b330-0be9-4913-a9c6-ec2c5d87f2f9)
 
 
+ ## Team ✨
 
+ 
 
 
 
