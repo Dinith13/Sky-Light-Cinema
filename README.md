@@ -16,3 +16,8 @@ Built using the MERN stack (MongoDB, Express.js, React.js, Node.js), the system 
 
 Our team chose the MERN stack for its flexibility and scalability, and we use GitHub for version control to ensure smooth collaboration and code management.
 
+In short, Skylight Cinema's management system is an all-in-one solution for cinema owners, offering automation, improved efficiency, and a modern approach to managing daily operations.
+
+
+
+
